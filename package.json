@@ -1,0 +1,15 @@
+{
+  "name": "react-dashboard-components",
+  "version": "1.0.0",
+  "description": "Reusable React dashboard components with Chart.js",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "chart.js": "^4.4.0",
+    "react-chartjs-2": "^5.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
